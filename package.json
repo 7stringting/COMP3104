@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
+    "start": "node index.js"
   },
   "keywords": ["devOps", "nodejs", "express", "web"],
   "author": "",
