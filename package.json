@@ -1,0 +1,12 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "- Ali",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": ["devOps", "nodejs", "express", "web"],
+  "author": "",
+  "license": "ISC"
+}
